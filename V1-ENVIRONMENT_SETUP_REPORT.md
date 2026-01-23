@@ -153,6 +153,12 @@ python scripts/test_open3d_pointcloud.py
 
 **Status:** ✅ All Python tests passed successfully
 
+**Screenshot:**  
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/9bd2cd88-cd05-4efe-8594-0d4e1ef4d60f" />
+
+
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/77cff7fd-d8d4-45a3-ba8d-445527715c58" />
+
 ---
 
 ## 3. ROS 2 Workspace Check
