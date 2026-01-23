@@ -217,6 +217,9 @@ ros2 launch env_check_pkg env_check.launch.py
 
 **Status:** ✅ Talker and listener communicating successfully
 
+**Screenshot:**  
+<img width="2880" height="1660" alt="image" src="https://github.com/user-attachments/assets/abefda61-05bd-4eea-9c2d-9d93f2ffa813" />
+
 ---
 
 ## 4. Problems Encountered and How I Solved Them
@@ -364,17 +367,16 @@ January 21, 2026
 
 ---
 
-## Summary
+## Submission Checklists
 
-✅ **All tests passed successfully:**
-- Python environment: ✅ PASS
-- Open3D point cloud pipeline: ✅ PASS  
-- ROS 2 workspace build: ✅ PASS
-- ROS 2 talker/listener communication: ✅ PASS
+- [x] Filled in all system information
+- [x] Included actual terminal outputs (not just screenshots)
+- [x] Provided at least 2 screenshots (Python tests + ROS talker/listener)
+- [x] Documented 2–3 real problems with solutions
+- [x] Completed the AI usage section with exact prompts
+- [x] Written a thoughtful reflection (3–5 sentences)
+- [x] Signed the declaration
 
-**Overall Result: PASS** 🚀
-
-The environment is fully configured and ready for AAE5303 coursework.
 
 ---
 
