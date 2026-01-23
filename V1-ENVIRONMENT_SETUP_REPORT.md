@@ -8,16 +8,27 @@
 ## 1. System Information
 
 **Laptop model:**  
-WSL2 Container (Virtual Environment)
+Lenovo XiaoXin14 Pro IHU 2021
 
 **CPU / RAM:**  
-x86_64 architecture, running in WSL2
+Intel Core i5-11320H @ 3.20GHz, 7.6GB RAM
 
 **Host OS:**  
-Windows (host) + Ubuntu 22.04.5 LTS (WSL2, kernel `Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35`)
+Windows 11 (host) + Ubuntu 22.04.5 LTS (WSL2, kernel `Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35`)
+
 
 **Linux/ROS environment type:**  
-WSL2 Ubuntu
+- [ ] Dual-boot Ubuntu
+- [x] WSL2 Ubuntu
+- [ ] Ubuntu in VM (UTM/VirtualBox/VMware/Parallels)
+- [ ] Docker container
+- [ ] Lab PC
+- [ ] Remote Linux server
+
+**Linux distribution details:**
+- Distribution: Ubuntu 22.04.5 LTS (Jammy)
+- Kernel: Linux 6.6.87.2-microsoft-standard-WSL2
+- Python version: 3.10.12
 
 ---
 
